@@ -27,5 +27,3 @@
 <h2> :pencil2: REALISÉ PAR : </h2>
 
 > - REDJEM Amir
-> - SAYAH Soukaina
-> - BHAR Fahd
